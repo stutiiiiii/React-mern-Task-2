@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-mern-Task-2/static/css/main.5d5adb53.css",
+    "main.js": "/React-mern-Task-2/static/js/main.03265b3e.js",
+    "static/js/787.82739246.chunk.js": "/React-mern-Task-2/static/js/787.82739246.chunk.js",
+    "index.html": "/React-mern-Task-2/index.html",
+    "main.5d5adb53.css.map": "/React-mern-Task-2/static/css/main.5d5adb53.css.map",
+    "main.03265b3e.js.map": "/React-mern-Task-2/static/js/main.03265b3e.js.map",
+    "787.82739246.chunk.js.map": "/React-mern-Task-2/static/js/787.82739246.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d5adb53.css",
+    "static/js/main.03265b3e.js"
+  ]
+}
